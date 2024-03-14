@@ -163,6 +163,17 @@ text-decoration: none;
     border-radius: 1rem;
 }
 
+.project-image-container3{
+        width: 100%;
+        height: auto;
+        padding: 5rem;
+        background-image: url(./Images/MacBook\ Pro\ 16-inch\ Space\ Black\ Front.svg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 1rem;
+}
+
 .project-card-content-container{
     width: 100%;
     height: auto;
